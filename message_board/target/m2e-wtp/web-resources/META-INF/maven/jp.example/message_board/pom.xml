@@ -30,11 +30,6 @@
   		<version>8.0.23</version>
   	</dependency>
   	<dependency>
-  		<groupId>org.hibernate</groupId>
-  		<artifactId>hibernate-core</artifactId>
-  		<version>1.2.1</version>
-  	</dependency>
-  	<dependency>
   		<groupId>org.apache.taglibs</groupId>
   		<artifactId>taglibs-standard-impl</artifactId>
   		<version>1.2.5</version>
@@ -43,6 +38,11 @@
   		<groupId>javax.servlet.jsp.jstl</groupId>
   		<artifactId>javax.servlet.jsp.jstl-api</artifactId>
   		<version>1.2.1</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.hibernate</groupId>
+  		<artifactId>hibernate-core</artifactId>
+  		<version>5.4.28.Final</version>
   	</dependency>
   </dependencies>
 </project>
